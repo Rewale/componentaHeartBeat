@@ -1,0 +1,5 @@
+/home/sdnv/PinkRabbitMQ/linux/build/CMakeFiles/test.dir
+/home/sdnv/PinkRabbitMQ/linux/build/CMakeFiles/PinkRabbitMQ64.dir
+/home/sdnv/PinkRabbitMQ/linux/build/CMakeFiles/unittest.dir
+/home/sdnv/PinkRabbitMQ/linux/build/CMakeFiles/rebuild_cache.dir
+/home/sdnv/PinkRabbitMQ/linux/build/CMakeFiles/edit_cache.dir
